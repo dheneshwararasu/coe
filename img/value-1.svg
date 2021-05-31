@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="96px" height="97px" viewBox="0 0 96 97" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <linearGradient x1="0.9988519" y1="0.00229624147" x2="0" y2="1" id="gradient_1">
+      <stop offset="0" stop-color="#31FB9A" />
+      <stop offset="0.354360223" stop-color="#31FBE6" />
+      <stop offset="0.7804318" stop-color="#0088FF" />
+      <stop offset="1" stop-color="#124BFF" />
+    </linearGradient>
+    <path d="M0 0L4 0L4 4L0 4L0 0Z" id="path_1" />
+    <path d="M0 0L4.11429 0L4.11429 4.11429L0 4.11429L0 0Z" id="path_2" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <clipPath id="mask_2">
+      <use xlink:href="#path_2" />
+    </clipPath>
+  </defs>
+  <g id="Group-3" transform="translate(0.6000977 0.5999756)">
+    <path d="M2 4.8C3.10457 4.8 4 3.72548 4 2.4C4 1.07452 3.10457 0 2 0C0.895431 0 0 1.07452 0 2.4C0 3.72548 0.895431 4.8 2 4.8Z" transform="translate(0 16)" id="Oval" fill="#2EF5E7" stroke="none" />
+    <path d="M2 4.8C3.10457 4.8 4 3.72549 4 2.4C4 1.07452 3.10457 0 2 0C0.895431 0 0 1.07452 0 2.4C0 3.72549 0.895431 4.8 2 4.8Z" transform="translate(4.8 68)" id="Oval-Copy" fill="#0280FF" stroke="none" />
+    <path d="M2 4.8C3.10457 4.8 4 3.72548 4 2.4C4 1.07452 3.10457 0 2 0C0.895431 0 0 1.07452 0 2.4C0 3.72548 0.895431 4.8 2 4.8Z" transform="translate(89.6 38.4)" id="Oval-Copy-2" fill="#31FB99" stroke="none" />
+    <g id="Group-49" transform="matrix(1.192488E-08 1 -1 1.192488E-08 81 0)">
+      <path d="M0 0C22.8002 0 22.8002 61.6 45.6005 61.6C68.4007 61.6 68.4007 0 91.2 0C68.4007 0 68.4007 61.6 45.6005 61.6C22.8002 61.6 22.8002 0 0 0Z" transform="translate(1.2 0.6)" id="Stroke-1" fill="none" stroke="url(#gradient_1)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0 61.6C22.8002 61.6 22.8002 0 45.6005 0C68.4007 0 68.4007 61.6 91.2 61.6C68.4007 61.6 68.4007 0 45.6005 0C22.8002 0 22.8002 61.6 0 61.6Z" transform="translate(1.2 0.6)" id="Stroke-3" fill="none" stroke="url(#gradient_1)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0.4 0L0.4 46.4L0.4 0Z" transform="translate(46.8 9.4)" id="Stroke-5" fill="none" stroke="#2EF5E7" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0.4 0L0.4 27.2L0.4 0Z" transform="translate(37.2 19)" id="Stroke-7" fill="none" stroke="#20D3EF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0.4 0L0.4 27.2L0.4 0Z" transform="translate(55.6 19)" id="Stroke-9" fill="none" stroke="#31FBDA" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0.400002 0L0.400002 46.4L0.400002 0Z" transform="translate(91.6 9.4)" id="Stroke-11" fill="none" stroke="#31FB99" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0.400002 0L0.400002 27.2L0.400002 0Z" transform="translate(82.8 19)" id="Stroke-13" fill="none" stroke="#31FBB7" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0.4 0L0.4 46.4L0.4 0Z" transform="translate(1.2 9.4)" id="Stroke-15" fill="none" stroke="#0EA8F8" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M0.4 0L0.4 27.2L0.4 0Z" transform="translate(10 19)" id="Stroke-17" fill="none" stroke="#11B0F7" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M1.6 0C2.48354 0 3.2 0.716453 3.2 1.6C3.2 2.48355 2.48354 3.2 1.6 3.2C0.716452 3.2 0 2.48355 0 1.6C0 0.716453 0.716452 0 1.6 0" transform="translate(81.6 17)" id="Fill-19" fill="#31FBB7" stroke="none" />
+      <path d="M1.6 0C2.48354 0 3.2 0.716453 3.2 1.6C3.2 2.48355 2.48354 3.2 1.6 3.2C0.716452 3.2 0 2.48355 0 1.6C0 0.716453 0.716452 0 1.6 0" transform="translate(81.6 45.8)" id="Fill-21" fill="#31FBB7" stroke="none" />
+      <g id="Group-25" transform="translate(89.6 7.4)">
+        <path d="M0 0L4 0L4 4L0 4L0 0Z" id="Clip-24" fill="none" stroke="none" />
+        <g clip-path="url(#mask_1)">
+          <path d="M2 0C3.10443 0 4 0.895566 4 2C4 3.10443 3.10443 4 2 4C0.895566 4 0 3.10443 0 2C0 0.895566 0.895566 0 2 0" id="Fill-23" fill="#31FB99" stroke="none" />
+        </g>
+      </g>
+      <g id="Group-28" transform="translate(89.6 53.8)">
+        <path d="M0 0L4.11429 0L4.11429 4.11429L0 4.11429L0 0Z" id="Clip-27" fill="none" stroke="none" />
+        <g clip-path="url(#mask_2)">
+          <path d="M2.05714 0C3.19313 0 4.11429 0.921154 4.11429 2.05714C4.11429 3.19313 3.19313 4.11429 2.05714 4.11429C0.921154 4.11429 0 3.19313 0 2.05714C0 0.921154 0.921154 0 2.05714 0" id="Fill-26" fill="#31FB99" stroke="none" />
+        </g>
+      </g>
+      <path d="M1.6 0C2.48355 0 3.2 0.716453 3.2 1.6C3.2 2.48355 2.48355 3.2 1.6 3.2C0.716453 3.2 0 2.48355 0 1.6C0 0.716453 0.716453 0 1.6 0" transform="translate(54.4 45)" id="Fill-29" fill="#31FBD7" stroke="none" />
+      <path d="M1.6 0C2.48355 0 3.2 0.716453 3.2 1.6C3.2 2.48355 2.48355 3.2 1.6 3.2C0.716453 3.2 0 2.48355 0 1.6C0 0.716453 0.716453 0 1.6 0" transform="translate(45.6 53)" id="Fill-31" fill="#2EF5E7" stroke="none" />
+      <path d="M1.6 0C2.48355 0 3.2 0.716453 3.2 1.6C3.2 2.48355 2.48355 3.2 1.6 3.2C0.716453 3.2 0 2.48355 0 1.6C0 0.716453 0.716453 0 1.6 0" transform="translate(36 43.4)" id="Fill-33" fill="#20D3EF" stroke="none" />
+      <path d="M1.6 0C2.48355 0 3.2 0.716453 3.2 1.6C3.2 2.48355 2.48355 3.2 1.6 3.2C0.716453 3.2 0 2.48355 0 1.6C0 0.716453 0.716453 0 1.6 0" transform="translate(36 17)" id="Fill-35" fill="#20D3EF" stroke="none" />
+      <path d="M1.6 0C2.48355 0 3.2 0.716453 3.2 1.6C3.2 2.48355 2.48355 3.2 1.6 3.2C0.716453 3.2 0 2.48355 0 1.6C0 0.716453 0.716453 0 1.6 0" transform="translate(45.6 8.2)" id="Fill-37" fill="#2EF5E7" stroke="none" />
+      <path d="M1.6 0C2.48355 0 3.2 0.716453 3.2 1.6C3.2 2.48355 2.48355 3.2 1.6 3.2C0.716453 3.2 0 2.48355 0 1.6C0 0.716453 0.716453 0 1.6 0" transform="translate(54.4 17)" id="Fill-39" fill="#31FBD7" stroke="none" />
+      <path d="M1.6 0C2.48355 0 3.2 0.716453 3.2 1.6C3.2 2.48355 2.48355 3.2 1.6 3.2C0.716453 3.2 0 2.48355 0 1.6C0 0.716453 0.716453 0 1.6 0" transform="translate(8.8 17)" id="Fill-41" fill="#11B0F7" stroke="none" />
+      <path d="M1.6 0C2.48355 0 3.2 0.716453 3.2 1.6C3.2 2.48355 2.48355 3.2 1.6 3.2C0.716453 3.2 0 2.48355 0 1.6C0 0.716453 0.716453 0 1.6 0" transform="translate(8.8 45)" id="Fill-43" fill="#11B0F7" stroke="none" />
+      <path d="M1.6 0C2.48355 0 3.2 0.716453 3.2 1.6C3.2 2.48355 2.48355 3.2 1.6 3.2C0.716453 3.2 0 2.48355 0 1.6C0 0.716453 0.716453 0 1.6 0" transform="translate(0 54.6)" id="Fill-45" fill="#0EA8F8" stroke="none" />
+      <path d="M1.6 0C2.48355 0 3.2 0.716453 3.2 1.6C3.2 2.48355 2.48355 3.2 1.6 3.2C0.716453 3.2 0 2.48355 0 1.6C0 0.716453 0.716453 0 1.6 0" transform="translate(0 8.2)" id="Fill-47" fill="#0EA8F8" stroke="none" />
+    </g>
+  </g>
+</svg>

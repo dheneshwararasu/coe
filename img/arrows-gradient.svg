@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="44px" height="19px" viewBox="0 0 44 19" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <linearGradient x1="4.252593" y1="-0.5819699" x2="0" y2="1" id="gradient_1">
+      <stop offset="0" stop-color="#31FB9A" />
+      <stop offset="0.354360223" stop-color="#31FBE6" />
+      <stop offset="0.7804318" stop-color="#0088FF" />
+      <stop offset="1" stop-color="#124BFF" />
+    </linearGradient>
+    <linearGradient x1="1.84621143" y1="0" x2="-0.9333577" y2="1" id="gradient_2">
+      <stop offset="0" stop-color="#31FB9A" />
+      <stop offset="0.148215964" stop-color="#31FBE6" />
+      <stop offset="0.7804318" stop-color="#0088FF" />
+      <stop offset="1" stop-color="#124BFF" />
+      <stop offset="1" stop-color="#124BFF" />
+    </linearGradient>
+    <linearGradient x1="1.34959519" y1="0.281832933" x2="-1.90206027" y2="1.1247772" id="gradient_3">
+      <stop offset="0" stop-color="#31FB9A" />
+      <stop offset="0.354360223" stop-color="#31FBE6" />
+      <stop offset="0.7804318" stop-color="#0088FF" />
+      <stop offset="1" stop-color="#124BFF" />
+    </linearGradient>
+  </defs>
+  <g id="Group-Copy" transform="translate(2 2)">
+    <g id="Group-2">
+      <path d="M0 3.15082e-14L8 7.0087L0 15" id="Path" fill="none" stroke="url(#gradient_1)" stroke-width="4" />
+      <path d="M0 3.15082e-14L8 7.0087L0 15" transform="translate(16 0)" id="Path-Copy" fill="none" stroke="url(#gradient_2)" stroke-width="4" />
+      <path d="M0 3.15082e-14L8 7.0087L0 15" transform="translate(32 0)" id="Path-Copy-2" fill="none" stroke="url(#gradient_3)" stroke-width="4" />
+    </g>
+  </g>
+</svg>

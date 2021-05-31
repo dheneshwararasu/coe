@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="333px" height="333px" viewBox="0 0 333 333" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <linearGradient x1="0.9988519" y1="0.00229624147" x2="1.74392307" y2="2.39780927" id="gradient_1">
+      <stop offset="0" stop-color="#31FB9A" />
+      <stop offset="0.354360223" stop-color="#31FBE6" />
+      <stop offset="0.7804318" stop-color="#0088FF" />
+      <stop offset="1" stop-color="#124BFF" />
+    </linearGradient>
+    <path d="M0 0L90.9977 0L90.9977 90.9973L0 90.9973L0 0Z" transform="translate(5E-05 0.516)" id="path_1" />
+    <path d="M0 0L242.194 0L242.194 242.194L0 242.194L0 0Z" transform="translate(0.2903 0.1079)" id="path_2" />
+    <path d="M0 0L242.193 0L242.193 242.194L0 242.194L0 0Z" transform="translate(0.5921 0.8061)" id="path_3" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <clipPath id="mask_2">
+      <use xlink:href="#path_2" />
+    </clipPath>
+    <clipPath id="mask_3">
+      <use xlink:href="#path_3" />
+    </clipPath>
+  </defs>
+  <g id="Group-40-Copy" transform="matrix(-4.371139E-08 -1 1 -4.371139E-08 0 333)">
+    <g id="Group-3">
+      <path d="M0 0L90.9977 0L90.9977 90.9973L0 90.9973L0 0Z" transform="translate(5E-05 0.516)" id="Clip-2" fill="none" stroke="none" />
+      <g clip-path="url(#mask_1)">
+        <path d="M15.5918 90.9977C-5.19725 70.2087 -5.19725 36.3817 15.5918 15.5918C36.3807 -5.19725 70.2087 -5.19725 90.9977 15.5918L90.2907 16.2987C69.8917 -4.10025 36.6978 -4.10025 16.2987 16.2987C-4.10025 36.6987 -4.10025 69.8917 16.2987 90.2907L15.5918 90.9977Z" transform="translate(5E-05 0.51555)" id="Fill-1" fill="url(#gradient_1)" stroke="none" />
+      </g>
+    </g>
+    <path d="M13.0177 76.005C-4.33925 58.648 -4.33925 30.406 13.0177 13.049C21.4327 4.634 32.6117 0 44.4957 0C56.3797 0 67.5587 4.634 75.9737 13.049L75.2667 13.756C67.0407 5.53 56.1127 1 44.4957 1C32.8787 1 21.9507 5.53 13.7247 13.756C-3.24225 30.723 -3.24225 58.331 13.7247 75.298L13.0177 76.005Z" transform="translate(8.799194 9.283691)" id="Fill-4" fill="url(#gradient_1)" stroke="none" />
+    <path d="M10.469 60.975C3.718 54.225 0 45.256 0 35.722C0 26.188 3.718 17.22 10.469 10.469C17.219 3.718 26.188 0 35.722 0C45.256 0 54.224 3.718 60.975 10.469L60.268 11.176C53.706 4.614 44.989 1 35.722 1C26.455 1 17.738 4.614 11.176 11.176C4.614 17.738 1 26.455 1 35.722C1 44.989 4.614 53.706 11.176 60.268L10.469 60.975Z" transform="translate(17.573 18.08859)" id="Fill-6" fill="url(#gradient_1)" stroke="none" />
+    <path d="M7.888 45.944C2.801 40.858 0 34.1 0 26.916C0 19.732 2.801 12.975 7.888 7.888C12.975 2.801 19.732 0 26.916 0C34.1 0 40.858 2.801 45.944 7.888L45.237 8.595C40.34 3.697 33.833 1 26.916 1C19.999 1 13.493 3.697 8.595 8.595C3.697 13.493 1 19.999 1 26.916C1 33.833 3.697 40.34 8.595 45.237L7.888 45.944Z" transform="translate(26.37866 26.8945)" id="Fill-8" fill="url(#gradient_1)" stroke="none" />
+    <path d="M5.295 30.901C-1.765 23.841 -1.765 12.354 5.295 5.295C12.355 -1.765 23.842 -1.765 30.901 5.295L30.194 6.002C23.525 -0.667 12.673 -0.668 6.002 6.002C-0.668 12.672 -0.668 23.524 6.002 30.194L5.295 30.901Z" transform="translate(35.19666 35.71292)" id="Fill-10" fill="url(#gradient_1)" stroke="none" />
+    <path d="M2.72025 15.8773C-0.90675 12.2503 -0.90675 6.34825 2.72025 2.72025C6.34825 -0.90675 12.2503 -0.90675 15.8773 2.72025L15.1702 3.42725C11.9323 0.19025 6.66525 0.19025 3.42725 3.42725C0.19025 6.66525 0.19025 11.9333 3.42725 15.1702L2.72025 15.8773Z" transform="translate(43.99609 44.51157)" id="Fill-12" fill="url(#gradient_1)" stroke="none" />
+    <path d="M241.487 242.194L0 0.707L0.707 0L242.194 241.487L241.487 242.194Z" transform="translate(21.81665 84.58157)" id="Fill-14" fill="url(#gradient_1)" stroke="none" />
+    <path d="M241.487 242.193L0 0.707L0.707 0L242.194 241.486L241.487 242.193Z" transform="translate(28.04126 78.35696)" id="Fill-16" fill="url(#gradient_1)" stroke="none" />
+    <path d="M241.487 242.194L0 0.707L0.707 0L242.194 241.487L241.487 242.194Z" transform="translate(34.26587 72.13138)" id="Fill-18" fill="url(#gradient_1)" stroke="none" />
+    <path d="M241.486 242.194L0 0.707L0.707 0L242.193 241.487L241.486 242.194Z" transform="translate(40.49146 65.90677)" id="Fill-20" fill="url(#gradient_1)" stroke="none" />
+    <path d="M241.487 242.193L0 0.707L0.707 0L242.194 241.486L241.487 242.193Z" transform="translate(46.71606 59.6821)" id="Fill-22" fill="url(#gradient_1)" stroke="none" />
+    <path d="M241.486 242.194L0 0.707L0.707 0L242.193 241.487L241.486 242.194Z" transform="translate(59.16626 47.2319)" id="Fill-24" fill="url(#gradient_1)" stroke="none" />
+    <path d="M241.487 242.194L0 0.707L0.707 0L242.194 241.487L241.487 242.194Z" transform="translate(65.39087 41.00729)" id="Fill-26" fill="url(#gradient_1)" stroke="none" />
+    <path d="M241.487 242.193L0 0.707L0.707 0L242.194 241.486L241.487 242.193Z" transform="translate(71.61548 34.78268)" id="Fill-28" fill="url(#gradient_1)" stroke="none" />
+    <path d="M241.487 242.194L0 0.707L0.707 0L242.194 241.487L241.487 242.194Z" transform="translate(77.84009 28.5571)" id="Fill-30" fill="url(#gradient_1)" stroke="none" />
+    <path d="M241.486 242.194L0 0.707L0.707 0L242.193 241.487L241.486 242.194Z" transform="translate(84.0658 22.33249)" id="Fill-32" fill="url(#gradient_1)" stroke="none" />
+    <g id="Group-36" transform="translate(90 16)">
+      <path d="M0 0L242.194 0L242.194 242.194L0 242.194L0 0Z" transform="translate(0.2903 0.1079)" id="Clip-35" fill="none" stroke="none" />
+      <g clip-path="url(#mask_2)">
+        <path d="M241.487 242.194L0 0.707L0.707 0L242.194 241.487L241.487 242.194Z" transform="translate(0.2903 0.1079)" id="Fill-34" fill="url(#gradient_1)" stroke="none" />
+      </g>
+    </g>
+    <g id="Group-39" transform="translate(15 90.00003)">
+      <path d="M0 0L242.193 0L242.193 242.194L0 242.194L0 0Z" transform="translate(0.5921 0.8061)" id="Clip-38" fill="none" stroke="none" />
+      <g clip-path="url(#mask_3)">
+        <path d="M241.486 242.194L0 0.707L0.707 0L242.193 241.487L241.486 242.194Z" transform="translate(0.5921 0.8061)" id="Fill-37" fill="url(#gradient_1)" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="533px" height="533px" viewBox="0 0 533 533" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <linearGradient x1="0.9988519" y1="0.00229624147" x2="0" y2="1" id="gradient_1">
+      <stop offset="0" stop-color="#31FB9A" />
+      <stop offset="0.354360223" stop-color="#31FBE6" />
+      <stop offset="0.7804318" stop-color="#0088FF" />
+      <stop offset="1" stop-color="#124BFF" />
+    </linearGradient>
+  </defs>
+  <g id="Group-5" transform="translate(1.5 1.5)">
+    <g id="Group-6-Copy">
+      <path d="M28 56C43.464 56 56 43.464 56 28C56 12.536 43.464 0 28 0C12.536 0 0 12.536 0 28C0 43.464 12.536 56 28 56Z" transform="translate(236.2473 235.2473)" id="Oval-Copy-18" fill="none" stroke="url(#gradient_1)" stroke-width="1" />
+      <path d="M190 380C294.934 380 380 294.934 380 190C380 85.0659 294.934 0 190 0C85.0659 0 0 85.0659 0 190" transform="matrix(0.8191521 0.5735765 -0.5735765 0.8191521 217.959 0)" id="Oval-Copy-19" fill="none" stroke="url(#gradient_1)" stroke-width="2" />
+      <path d="M0 37.5595C42.5174 37.5595 81.773 23.594 113.43 -3.33595e-14" transform="matrix(1.192488E-08 1 -1 1.192488E-08 111.8066 264.6184)" id="Oval-Copy-20" fill="none" stroke="url(#gradient_1)" stroke-width="3" />
+      <path d="M163 326C253.022 326 326 253.022 326 163C326 72.9776 253.022 0 163 0C72.9776 0 0 72.9776 0 163" transform="matrix(-0.9961947 -0.08715588 0.08715588 -0.9961947 412.7917 441.2046)" id="Oval-Copy-21" fill="none" stroke="url(#gradient_1)" stroke-width="2" />
+      <path d="M129 258C200.245 258 258 200.245 258 129C258 57.7553 200.245 0 129 0C57.7553 0 0 57.7553 0 129" transform="matrix(-0.7071068 0.7071067 -0.7071067 -0.7071068 452.6807 266.2473)" id="Oval-Copy-23" fill="none" stroke="url(#gradient_1)" stroke-width="2" />
+    </g>
+    <path d="M7.5 15C11.6421 15 15 11.6421 15 7.5C15 3.35786 11.6421 0 7.5 0C3.35786 0 0 3.35786 0 7.5C0 11.6421 3.35786 15 7.5 15Z" transform="translate(124.312 398.6184)" id="Oval-Copy-12" fill="#0DA7F9" stroke="none" />
+    <path d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(75.31201 210.6184)" id="Oval-Copy-13" fill="#31FBB9" stroke="none" />
+  </g>
+</svg>
